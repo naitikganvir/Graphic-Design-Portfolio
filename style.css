@@ -71,7 +71,7 @@ body {
 
 /* Main Hero Section Styles */
 .hero { 
-	background-image: url('./bg.png'); 
+	background-image: url('bg.png'); 
 	background-repeat: no-repeat; 
 	background-size: 100% 100%; 
 	width: 100%; 
